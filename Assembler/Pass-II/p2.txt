@@ -1,0 +1,9 @@
+
+symbol table
+         1               sai             116
+         2               om              119
+         3               li              120
+literal table
+         1               ='2'            121
+         2               ='1'            122
+         3               ='4'            122
